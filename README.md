@@ -1,6 +1,6 @@
 # Amazon ML Challenge - 2024
-##OVERALL TEAM RANK: 198 out of 75K+
-##F1 score of result- 0.454 
+## OVERALL TEAM RANK: 198 out of 75K+
+## F1 score of result- 0.454 
 
 # ML Problem Statement
 ## Feature Extraction from Images
